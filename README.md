@@ -58,9 +58,9 @@ This project helped me practice different SQL concepts such as:
 
 ## Project Files
 
-* **Music_Store_Query.sql** → SQL queries used to analyze the database
-* **MusicDatabaseSchema.png** → Database schema showing table relationships
-* **Music Store Analysis-Questions.pdf** → List of business questions used in the project
+- Music_Store_Query.sql → SQL queries used to analyze the database  
+- Music_Store_database.sql → SQL file used to create and load the database  
+- MusicDatabaseSchema.png → Database schema showing table relationships
 
 ## Conclusion
 
